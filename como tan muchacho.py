@@ -23,13 +23,14 @@ def menu():
 
     
     if op==1:
-        print(".-.-.-.--.-. MENU 1-.-.-.-.-.-.-")
+        print(":_:_:_:_Agregar un auto:__:_:_:_:_")
     elif op==2:
-        print("puto")
+        print(".-.--.-.-.-.-.-.-.lista de los autos.--.-.-.-.-.")
+        print(lista)
     elif op==3:
         lista=[("id":1,"detalle":'escritorio',"precio":30000)]
     elif op==4:
-        print("b")
+        print("generar archivo con cvs")
     elif op==5:
         print("c")
     elif op==6:
